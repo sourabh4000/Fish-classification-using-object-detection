@@ -1,5 +1,5 @@
 # Fish-classification-using-object-detection
-classifying fish speices using yolo and roboflow, using coco dataset for further validation
+
 The fish classification using object detection project aims to accurately detect and classify different types of fish in images and videos. To achieve this, the project uses the popular You Only Look Once (YOLO) object detection algorithm, which is known for its fast and accurate object detection capabilities. Additionally, the project utilizes the Common Objects in Context (COCO) dataset, which contains a wide variety of objects, including fish.
 
 To train and validate the accuracy of the model, the project makes use of the COCO dataset, which contains over 330,000 images of 80 different object categories, including fish. The dataset has been annotated with bounding boxes and labels for each object, which allows the YOLO algorithm to detect and classify fish accurately.
